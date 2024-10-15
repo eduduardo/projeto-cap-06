@@ -49,8 +49,8 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/eduduardo/projeto-cap-06.git
+    cd projeto-cap-06
     ```
 
 2. Configure a conexão com o banco de dados Oracle no arquivo `projeto.py`.
